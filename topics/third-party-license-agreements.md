@@ -1592,2238 +1592,1559 @@ Code snippets from [Subclipse](http://subclipse.tigris.org/)
 
 ## JavaScript-related libraries
 
-<table><tr>
-
-<td>
-
-Product
-
-
-</td>
-
-<td>
-
-License
-
-
-</td></tr><tr>
-
-<td>
-
-[@atlaskit/logo](https://www.npmjs.com/package/@atlaskit/logo)
-
-</td>
-
-<td>
-
-[Apache-2.0](http://opensource.org/licenses/Apache-2.0)
-
-</td></tr><tr>
-
-<td>
-
-[@babel/runtime](https://www.npmjs.com/package/@babel/runtime)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[@jetbrains/icons](https://www.npmjs.com/package/@jetbrains/icons)
-
-</td>
-
-<td>
-
-[Apache-2.0](http://opensource.org/licenses/Apache-2.0)
-
-</td></tr><tr>
-
-<td>
-
-[@jetbrains/ring-ui](https://www.npmjs.com/package/@jetbrains/ring-ui)
-
-</td>
-
-<td>
-
-[Apache-2.0](http://opensource.org/licenses/Apache-2.0)
-
-</td></tr><tr>
-
-<td>
-
-[@reach/router](https://www.npmjs.com/package/@reach/router)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[@welldone-software/why-did-you-render](https://www.npmjs.com/package/@welldone-software/why-did-you-render)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[babel-runtime](https://www.npmjs.com/package/babel-runtime)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[bail](https://www.npmjs.com/package/bail)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[batch-processor](https://www.npmjs.com/package/batch-processor)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[callbag-create](https://www.npmjs.com/package/callbag-create)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[callbag-debounce](https://www.npmjs.com/package/callbag-debounce)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[callbag-pipe](https://www.npmjs.com/package/callbag-pipe)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[callbag-remember](https://www.npmjs.com/package/callbag-remember)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[callbag-share](https://www.npmjs.com/package/callbag-share)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[callbag-subject](https://www.npmjs.com/package/callbag-subject)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[callbag-subscribe](https://www.npmjs.com/package/callbag-subscribe)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[change-emitter](https://www.npmjs.com/package/change-emitter)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[character-entities-legacy](https://www.npmjs.com/package/character-entities-legacy)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[character-reference-invalid](https://www.npmjs.com/package/character-reference-invalid)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[classnames](https://www.npmjs.com/package/classnames)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[clipboard-js](https://github.com/zenorocha/clipboard.js/)
-
-</td>
-
-<td>
-
-[MIT](https://zenorocha.mit-license.org/)
-
-</td></tr>
-<tr>
-
-<td>
-
-[clipboard-polyfill](https://www.npmjs.com/package/clipboard-polyfill)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[clsx](https://www.npmjs.com/package/clsx)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[collapse-white-space](https://www.npmjs.com/package/collapse-white-space)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[combokeys](https://www.npmjs.com/package/combokeys)
-
-</td>
-
-<td>
-
-[Apache-2.0](http://opensource.org/licenses/Apache-2.0)
-
-</td></tr><tr>
-
-<td>
-
-[conic-gradient](https://www.npmjs.com/package/conic-gradient)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[core-js](https://www.npmjs.com/package/core-js)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[create-react-context](https://www.npmjs.com/package/create-react-context)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-array](https://www.npmjs.com/package/d3-array)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-collection](https://www.npmjs.com/package/d3-collection)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-color](https://www.npmjs.com/package/d3-color)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-ease](https://www.npmjs.com/package/d3-ease)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-format](https://www.npmjs.com/package/d3-format)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-interpolate](https://www.npmjs.com/package/d3-interpolate)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-path](https://www.npmjs.com/package/d3-path)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-scale](https://www.npmjs.com/package/d3-scale)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-shape](https://www.npmjs.com/package/d3-shape)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-time](https://www.npmjs.com/package/d3-time)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-time-format](https://www.npmjs.com/package/d3-time-format)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-timer](https://www.npmjs.com/package/d3-timer)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[d3-voronoi](https://www.npmjs.com/package/d3-voronoi)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[extend](https://www.npmjs.com/package/extend)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[dom4](https://www.npmjs.com/package/dom4)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[element-resize-detector](https://www.npmjs.com/package/element-resize-detector)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[exenv](https://www.npmjs.com/package/exenv)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[extend](https://www.npmjs.com/package/extend)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[fastdom](https://www.npmjs.com/package/fastdom)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[fbjs](https://www.npmjs.com/package/fbjs)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[filesize](https://www.npmjs.com/package/filesize)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr><tr>
-
-<td>
-
-[gud](https://www.npmjs.com/package/gud)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[highlight.js](https://www.npmjs.com/package/highlight.js)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr><tr>
-
-<td>
-
-[history](https://www.npmjs.com/package/history)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[hoist-non-react-statics](https://www.npmjs.com/package/hoist-non-react-statics)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr><tr>
-          
-<td>
-
-[iframe-resizer](https://www.npmjs.com/package/iframe-resizer)
-          
-</td>
-          
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-          
-</td></tr>
-
-<tr>
-
-<td>
-
-[inherits](https://www.npmjs.com/package/inherits)
-
-</td>
-
-<td>
-
-[ISC](http://opensource.org/licenses/ISC)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[intersection-observer](https://www.npmjs.com/package/intersection-observer)
-
-</td>
-
-<td>
-
-[W3C](http://opensource.org/licenses/W3C)
-
-</td></tr><tr>
-
-<td>
-
-[invariant](https://www.npmjs.com/package/invariant)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[irregular-plurals](https://www.npmjs.com/package/irregular-plurals)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[is-alphabetical](https://www.npmjs.com/package/is-alphabetical)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[is-alphanumerical](https://www.npmjs.com/package/is-alphanumerical)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[is-plain-object](https://www.npmjs.com/package/is-plain-object)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[isobject](https://www.npmjs.com/package/isobject)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[is-buffer](https://www.npmjs.com/package/is-buffer)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[is-decimal](https://www.npmjs.com/package/is-decimal)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[is-hexadecimal](https://www.npmjs.com/package/is-hexadecimal)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[is-plain-obj](https://www.npmjs.com/package/is-plain-obj)\-es
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT) 
-
-</td></tr><tr>
-
-<td>
-
-[is-whitespace-character](https://www.npmjs.com/package/is-whitespace-character)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[is-word-character](https://www.npmjs.com/package/is-word-character)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[just-debounce-it](https://www.npmjs.com/package/just-debounce-it)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[just-throttle](https://www.npmjs.com/package/just-throttle)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[linear-layout-vector](https://www.npmjs.com/package/linear-layout-vector)
-
-</td>
-
-<td>
-
-[ISC](http://opensource.org/licenses/ISC)
-
-</td></tr><tr>
-
-<td>
-
-[lodash](https://www.npmjs.com/package/lodash)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[lottie-web](https://www.npmjs.com/package/lottie-web)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[markdown-escapes](https://www.npmjs.com/package/markdown-escapes)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[mdast-add-list-metadata](https://www.npmjs.com/package/mdast-add-list-metadata)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[moment](https://www.npmjs.com/package/moment)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[normalizr](https://www.npmjs.com/package/normalizr)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[object-assign](https://www.npmjs.com/package/object-assign)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[parse-entities](https://www.npmjs.com/package/parse-entities)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[performance-now](https://www.npmjs.com/package/performance-now)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[plur](https://www.npmjs.com/package/plur)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[process](https://www.npmjs.com/package/process)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[prop-types](https://www.npmjs.com/package/prop-types)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[qhistory](https://www.npmjs.com/package/qhistory)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[raf](https://www.npmjs.com/package/raf)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[re-resizable](https://www.npmjs.com/package/re-resizable)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[react](https://www.npmjs.com/package/react)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[react-document-title](https://www.npmjs.com/package/react-document-title)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[react-dom](https://www.npmjs.com/package/react-dom)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[react-fast-compare](https://www.npmjs.com/package/react-fast-compare)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[react-is](https://www.npmjs.com/package/react-is)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[react-lifecycles-compat](https://www.npmjs.com/package/react-lifecycles-compat)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[react-markdown](https://www.npmjs.com/package/react-markdown)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[react-measure](https://www.npmjs.com/package/react-measure)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[react-redux](https://www.npmjs.com/package/react-redux)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[react-side-effect](https://www.npmjs.com/package/react-side-effect)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[react-truncate](https://www.npmjs.com/package/react-truncate)
-
-</td>
-
-<td>
-
-[ISC](http://opensource.org/licenses/ISC)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[react-uid](https://www.npmjs.com/package/react-uid)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-
-<tr>
-
-<td>
-
-[react-virtualized](https://www.npmjs.com/package/react-virtualized)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[recompose](https://www.npmjs.com/package/recompose)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[redux](https://www.npmjs.com/package/redux)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[redux-query-sync](https://www.npmjs.com/package/redux-query-sync)
-
-</td>
-
-<td>
-
-[Unlicense](http://unlicense.org/)
-
-</td></tr><tr>
-
-<td>
-
-[redux-thunk](https://www.npmjs.com/package/redux-thunk)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[regenerator-runtime](https://www.npmjs.com/package/regenerator-runtime)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[remark-breaks](https://www.npmjs.com/package/remark-breaks)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[remark-parse](https://www.npmjs.com/package/remark-parse)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[repeat-string](https://www.npmjs.com/package/repeat-string)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[replace-ext](https://www.npmjs.com/package/replace-ext)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[reselect](https://www.npmjs.com/package/reselect)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[resize-observer-polyfill](https://www.npmjs.com/package/resize-observer-polyfill)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[resolve-pathname](https://www.npmjs.com/package/resolve-pathname)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[scheduler](https://www.npmjs.com/package/scheduler)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[scrollbar-width](https://www.npmjs.com/package/scrollbar-width)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[shallowequal](https://www.npmjs.com/package/shallowequal)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[sniffr](https://www.npmjs.com/package/sniffr)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[state-toggle](https://www.npmjs.com/package/state-toggle)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[styled-components](https://www.npmjs.com/package/styled-components)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[stylis](https://www.npmjs.com/package/stylis)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[stylis-rule-sheet](https://www.npmjs.com/package/stylis-rule-sheet)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[svg-inline-react](https://www.npmjs.com/package/svg-inline-react)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[symbol-observable](https://www.npmjs.com/package/symbol-observable)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[tiny-invariant](https://www.npmjs.com/package/tiny-invariant)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[tiny-warning](https://www.npmjs.com/package/tiny-warning)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[trim](https://www.npmjs.com/package/trim)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[trim-trailing-lines](https://www.npmjs.com/package/trim-trailing-lines)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[trough](https://www.npmjs.com/package/trough)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[unherit](https://www.npmjs.com/package/unherit)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[unified](https://www.npmjs.com/package/unified)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[unist-util-is](https://www.npmjs.com/package/unist-util-is)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[unist-util-remove-position](https://www.npmjs.com/package/unist-util-remove-position)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[unist-util-stringify-position](https://www.npmjs.com/package/unist-util-stringify-position)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[unist-util-visit](https://www.npmjs.com/package/unist-util-visit)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[unist-util-visit-parents](https://www.npmjs.com/package/unist-util-visit-parents)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[url-search-params](https://www.npmjs.com/package/url-search-params)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[util-deprecate](https://www.npmjs.com/package/util-deprecate)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[uuid](https://www.npmjs.com/package/uuid)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[value-equal](https://www.npmjs.com/package/value-equal)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[vfile](https://www.npmjs.com/package/vfile-location)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[vfile-location](https://www.npmjs.com/package/babel-runtime)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[vfile-message](https://www.npmjs.com/package/vfile-message)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory](https://www.npmjs.com/package/victory)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-area](https://www.npmjs.com/package/victory-area)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-axis](https://www.npmjs.com/package/victory-axis)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-bar](https://www.npmjs.com/package/victory-bar)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-vox-plot](https://www.npmjs.com/package/victory-box-plot)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-brush-container](https://www.npmjs.com/package/victory-brush-container)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-brush-line](https://www.npmjs.com/package/victory-brush-line)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-candlestick](https://www.npmjs.com/package/victory-candlestick)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-chart](https://www.npmjs.com/package/victory-chart)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-core](https://www.npmjs.com/package/babel-runtime)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-create-container](https://www.npmjs.com/package/victory-core)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-cursor-container](https://www.npmjs.com/package/victory-cursor-container)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-errorbar](https://www.npmjs.com/package/victory-errorbar)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-group](https://www.npmjs.com/package/victory-group)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-legend](https://www.npmjs.com/package/victory-legend)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-line](https://www.npmjs.com/package/victory-line)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-pie](https://www.npmjs.com/package/victory-pie)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-polar-axis](https://www.npmjs.com/package/victory-polar-axis)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-scatter](https://www.npmjs.com/package/victory-scatter)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-selection-container](https://www.npmjs.com/package/victory-selection-container)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-shared-events](https://www.npmjs.com/package/victory-shared-events)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-stack](https://www.npmjs.com/package/victory-stack)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-tooltip](https://www.npmjs.com/package/victory-tooltip)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-voronoi](https://www.npmjs.com/package/victory-voronoi)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-voronoi-container](https://www.npmjs.com/package/victory-voronoi-container)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[victory-zoomn-container](https://www.npmjs.com/package/victory-zoom-container)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[warning](https://www.npmjs.com/package/warning)
-
-</td>
-
-<td>
-
-[BSD-3-Clause](http://opensource.org/licenses/BSD-3-Clause)
-
-</td></tr><tr>
-
-<td>
-
-[whatwg-fetch](https://www.npmjs.com/package/whatwg-fetch)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr><tr>
-
-<td>
-
-[x-is-string](https://www.npmjs.com/package/x-is-string)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
-<tr>
-
-<td>
-
-[xtend](https://www.npmjs.com/package/xtend)
-
-</td>
-
-<td>
-
-[MIT](http://opensource.org/licenses/MIT)
-
-</td></tr>
-
+<table>
+  <tr>
+    <td>
+      Product
+    </td>
+    <td>
+      License
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/@atlaskit/logo">@atlaskit/logo</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/Apache-2.0">Apache-2.0</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/@babel/runtime">@babel/runtime</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/@emotion/is-prop-valid">@emotion/is-prop-valid</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/@emotion/memoize">@emotion/memoize</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/@emotion/unitless">@emotion/unitless</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/@jetbrains/icons">@jetbrains/icons</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/Apache-2.0">Apache-2.0</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/@jetbrains/ring-ui">@jetbrains/ring-ui</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/Apache-2.0">Apache-2.0</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/@reach/router">@reach/router</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/@welldone-software/why-did-you-render">@welldone-software/why-did-you-render</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/a11y-focus-store">a11y-focus-store</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/ISC">ISC</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/animation-bus">animation-bus</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/babel-runtime">babel-runtime</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/bail">bail</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/batch-processor">batch-processor</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/callbag-create">callbag-create</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/callbag-debounce">callbag-debounce</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/callbag-pipe">callbag-pipe</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/callbag-remember">callbag-remember</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/callbag-share">callbag-share</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/callbag-subject">callbag-subject</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/callbag-subscribe">callbag-subscribe</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/change-emitter">change-emitter</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/character-entities-legacy">character-entities-legacy</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/character-reference-invalid">character-reference-invalid</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/classnames">classnames</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/clipboard-polyfill">clipboard-polyfill</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/clsx">clsx</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/collapse-white-space">collapse-white-space</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/combokeys">combokeys</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/Apache-2.0">Apache-2.0</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/conic-gradient">conic-gradient</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/core-js">core-js</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/create-react-class">create-react-class</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/create-react-context">create-react-context</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/css-in-js-utils">css-in-js-utils</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-array">d3-array</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-collection">d3-collection</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-color">d3-color</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-ease">d3-ease</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-format">d3-format</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-interpolate">d3-interpolate</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-path">d3-path</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-scale">d3-scale</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-shape">d3-shape</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-time">d3-time</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-time-format">d3-time-format</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-timer">d3-timer</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/d3-voronoi">d3-voronoi</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/delaunator">delaunator</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/ISC">ISC</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/delaunay-find">delaunay-find</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/ISC">ISC</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/dom-helpers">dom-helpers</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/dom4">dom4</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/element-resize-detector">element-resize-detector</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/exenv">exenv</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/extend">extend</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/fast-memoize">fast-memoize</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/fastdom">fastdom</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/fbjs">fbjs</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/filesize">filesize</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/fscreen">fscreen</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/get-prefix">get-prefix</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/glam">glam</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/ISC">ISC</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/gud">gud</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/highlight.js">highlight.js</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/history">history</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/hoist-non-react-statics">hoist-non-react-statics</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/hyphenate-style-name">hyphenate-style-name</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/iframe-resizer">iframe-resizer</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/inherits">inherits</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/ISC">ISC</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/inline-style-prefixer">inline-style-prefixer</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/intersection-observer">intersection-observer</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/W3C">W3C</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/invariant">invariant</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/irregular-plurals">irregular-plurals</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/is-alphabetical">is-alphabetical</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/is-alphanumerical">is-alphanumerical</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/is-buffer">is-buffer</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/is-decimal">is-decimal</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/is-hexadecimal">is-hexadecimal</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/is-plain-obj">is-plain-obj</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/is-what">is-what</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/is-whitespace-character">is-whitespace-character</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/is-word-character">is-word-character</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/just-debounce-it">just-debounce-it</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/just-throttle">just-throttle</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/linear-layout-vector">linear-layout-vector</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/ISC">ISC</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/lodash">lodash</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/lottie-web">lottie-web</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/markdown-escapes">markdown-escapes</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/mdast-add-list-metadata">mdast-add-list-metadata</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/memoize-one">memoize-one</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/merge-anything">merge-anything</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/mitt">mitt</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/moment">moment</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/normalizr">normalizr</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/object-assign">object-assign</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/parse-entities">parse-entities</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/performance-now">performance-now</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/plur">plur</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/process">process</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/prop-types">prop-types</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/qhistory">qhistory</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/raf">raf</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/raf-schd">raf-schd</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/re-resizable">re-resizable</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react">react</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-document-title">react-document-title</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-dom">react-dom</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-fast-compare">react-fast-compare</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-full-screen">react-full-screen</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-images">react-images</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-is">react-is</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-lifecycles-compat">react-lifecycles-compat</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-markdown">react-markdown</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-measure">react-measure</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-motion">react-motion</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-redux">react-redux</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-scrolllock">react-scrolllock</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-side-effect">react-side-effect</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-transition-group">react-transition-group</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-uid">react-uid</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-view-pager">react-view-pager</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/react-virtualized">react-virtualized</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/recompose">recompose</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/redux">redux</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/redux-query-sync">redux-query-sync</a>
+    </td>
+    <td>
+      <a href="http://unlicense.org/">Unlicense</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/redux-thunk">redux-thunk</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/regenerator-runtime">regenerator-runtime</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/remark-breaks">remark-breaks</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/remark-parse">remark-parse</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/repeat-string">repeat-string</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/replace-ext">replace-ext</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/reselect">reselect</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/resize-observer-polyfill">resize-observer-polyfill</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/resolve-pathname">resolve-pathname</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/scheduler">scheduler</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/scrollbar-width">scrollbar-width</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/shallowequal">shallowequal</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/sniffr">sniffr</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/state-toggle">state-toggle</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/styled-components">styled-components</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/stylis">stylis</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/stylis-rule-sheet">stylis-rule-sheet</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/svg-inline-react">svg-inline-react</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/symbol-observable">symbol-observable</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/tabbable">tabbable</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/tiny-invariant">tiny-invariant</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/tiny-warning">tiny-warning</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/trim">trim</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/trim-trailing-lines">trim-trailing-lines</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/trough">trough</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/tslib">tslib</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/Apache-2.0">Apache-2.0</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/unherit">unherit</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/unified">unified</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/unist-util-is">unist-util-is</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/unist-util-remove-position">unist-util-remove-position</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/unist-util-stringify-position">unist-util-stringify-position</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/unist-util-visit">unist-util-visit</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/unist-util-visit-parents">unist-util-visit-parents</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/url-search-params">url-search-params</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/util-deprecate">util-deprecate</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/value-equal">value-equal</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/vfile">vfile</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/vfile-location">vfile-location</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/vfile-message">vfile-message</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory">victory</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-area">victory-area</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-axis">victory-axis</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-bar">victory-bar</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-box-plot">victory-box-plot</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-brush-container">victory-brush-container</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-brush-line">victory-brush-line</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-candlestick">victory-candlestick</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-chart">victory-chart</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-core">victory-core</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-create-container">victory-create-container</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-cursor-container">victory-cursor-container</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-errorbar">victory-errorbar</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-group">victory-group</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-legend">victory-legend</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-line">victory-line</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-pie">victory-pie</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-polar-axis">victory-polar-axis</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-scatter">victory-scatter</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-selection-container">victory-selection-container</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-shared-events">victory-shared-events</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-stack">victory-stack</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-tooltip">victory-tooltip</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-voronoi">victory-voronoi</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-voronoi-container">victory-voronoi-container</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/victory-zoom-container">victory-zoom-container</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/warning">warning</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/BSD-3-Clause">BSD-3-Clause</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/whatwg-fetch">whatwg-fetch</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/x-is-string">x-is-string</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.npmjs.com/package/xtend">xtend</a>
+    </td>
+    <td>
+      <a href="http://opensource.org/licenses/MIT">MIT</a>
+    </td>
+  </tr>
 </table>
 
 ## Acknowledgements
