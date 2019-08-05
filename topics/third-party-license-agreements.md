@@ -6,7 +6,7 @@ The following are two alphabetical lists of third\-party libraries distributed w
 
 <table><tr>
 
-<td width="250">
+<td>
 
 Product
 
@@ -1594,7 +1594,7 @@ Code snippets from [Subclipse](http://subclipse.tigris.org/)
 
 <table><tr>
 
-<td width="250">
+<td>
 
 Product
 
